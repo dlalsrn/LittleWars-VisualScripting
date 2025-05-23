@@ -34,7 +34,7 @@
 ## 사용한 Asset
 - **볼트 2D 리틀워즈 에셋 팩**: https://assetstore.unity.com/packages/2d/characters/bolt-2d-littlewars-assets-pack-189896
   - 게임 개발에 사용한 모든 Image, Sound 등
-- **Font**: https://fonts.google.com/specimen/Do+Hyeon
+- **Font**: https://neodgm.dalgona.dev/
   - 볼트 2D 리틀워즈 에셋 팩에 포함되어 있지만 따로 링크 첨부
 
 사용한 Asset File들은 저작권 관련 문제가 발생하는 것을 방지하기 위해 업로드에서 제외했습니다.
